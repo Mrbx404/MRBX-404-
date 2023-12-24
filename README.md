@@ -1,7 +1,7 @@
-rm -rf MRBX-PRO.py
+rm -rf MRBX-404-
 
-git clone --depth=1 https://github.com/Mrbx404/MRBX-404-
+git clone https://github.com/
 
-cd MRBX-PRO.py
+cd FREE-ENJOY-DYNO
 
-python MRBX-PRO.py
+python Run.py
